@@ -14,6 +14,20 @@ When it come to deciding upon an operating system there isn't much choice. Its a
 
 Cody West: Python, Css3, Html5, Coffee Script and Java Script Developer. Designer at heart. Big fan of gadgets and mini computers.
 
-Tom Drevon: that guy on his chair at his computer doing awesome things (HTML5, Swift)
+Tom Drevon: That guy on his chair at his computer doing awesome things (HTML5, Swift). Worked with game engines and adobe programs!
+
+#Device
+
+Odroid C1 or Humingbird i2ex
+
+#Later projects
+
+IOS releace
+
+#Aim
+
+To go to san-francisco and go to a google conference!!
+
+#We are a group of schol geeks and would be happy for anyone to join the project.
 
 
