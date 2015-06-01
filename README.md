@@ -28,6 +28,6 @@ IOS releace
 
 To go to san-francisco and go to a google conference!!
 
-#We are a group of schol geeks and would be happy for anyone to join the project.
+#We are a group of school geeks and would be happy for anyone to join the project.
 
 
