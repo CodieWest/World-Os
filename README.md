@@ -1,6 +1,16 @@
 # World-Os
 Os for everyone. Made by everyone. For anywhere.
 
+
+[![Build Status](https://secure.travis-ci.org/pybuilder/pybuilder.png?branch=master)](http://travis-ci.org/pybuilder/pybuilder)
+[![PyPI version](https://badge.fury.io/py/pybuilder.png)](https://warehouse.python.org/project/pybuilder/)
+[![Python versions](https://pypip.in/py_versions/pybuilder/badge.svg)](https://warehouse.python.org/project/pybuilder/)
+[![Coverage Status](https://coveralls.io/repos/pybuilder/pybuilder/badge.png?branch=master)](https://coveralls.io/r/pybuilder/pybuilder?branch=master)
+[![Ready in backlog](https://badge.waffle.io/pybuilder/pybuilder.png?label=ready&title=Ready)](https://waffle.io/pybuilder/pybuilder)
+[![Open bugs](https://badge.waffle.io/pybuilder/pybuilder.png?label=bug&title=Open%20Bugs)](https://waffle.io/pybuilder/pybuilder)
+
+
+
 When it come to deciding upon an operating system there isn't much choice. Its a choice which makes your life one step easier. What if you could have and operating system made to suit you for who you are, what you do and your hobbies. Designed for you to World OS make your life one step easier. With the choice of any phone running Android M in choosing to use this OS you can unlock the full potential of your device as you can maximise the processing speeds and GPU. Open source free for developers and mods, with third party apps available, enjoy your favourite games, social networking, physical and daily phone rituals you will be pleased. World OS will be based upon your desires and make big decisions from the simplicity of the OS depending on your technical ability to what your favourite texture is keeping within your budget. If your not pleased with the analysis you have the option to design your own system via our website with a visual design studio . To top that off you can switch OS within Android to World OS via system preferences.
 
 #Language Choice
